@@ -1,0 +1,8 @@
+# Ignore everything inside the raw files folder
+data/MinneMUDAC_raw_files/*
+
+# Ignore all parquet files in the data folder
+data/*.parquet
+
+# Ignore all delta files in the data folder
+data/*.delta
